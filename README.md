@@ -2,7 +2,7 @@
 
 Business Systems Analyst with 8+ years of IT and systems experience in regulated financial services.
 
-I led 6 enterprise system implementations in 3 years, including an ADP-to-UKG Pro HCM migration, an Omada IAM deployment, and 5 concurrent cloud migrations.
+I led 6 enterprise system implementations over 3 years, including an ADP-to-UKG Pro HCM migration, an Omada IAM deployment, and 5 concurrent cloud migrations.
 
 ## What I Do
 - Translate business requirements into production-ready solutions
