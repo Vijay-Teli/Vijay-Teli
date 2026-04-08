@@ -12,11 +12,11 @@ I led 6 enterprise system implementations in 3 years, including an ADP-to-UKG Pr
 
 ## Portfolio Projects
 
-**[HR Analytics Dashboard](https://github.com/YOUR-USERNAME/hr-analytics-dashboard)** - Power BI + SQL workforce analytics with custom DAX measures and automated reporting
+**[HR Analytics Dashboard](https://github.com/Vijay-Teli/hr-analytics-dashboard)** - Power BI + SQL workforce analytics with custom DAX measures and automated reporting
 
-**[API Data Pipeline](https://github.com/YOUR-USERNAME/api-data-pipeline)** - Python + SQL + Postman end-to-end data pipeline from REST API to structured database
+**[API Data Pipeline](https://github.com/Vijay-Teli/api-data-pipeline)** - Python + SQL + Postman end-to-end data pipeline from REST API to structured database
 
-**[Process Automation Case Study](https://github.com/YOUR-USERNAME/process-automation-case-study)** - Real-world Power Automate + Pega RPA case study eliminating manual HR processes
+**[Process Automation Case Study](https://github.com/Vijay-Teli/process-automation-case-study)** - Real-world Power Automate + Pega RPA case study eliminating manual HR processes
 
 ## Tools and Technologies
 SQL Server, Power BI, UKG Pro, Omada IAM, Active Directory, Azure AD, Jira, Confluence, Power Automate, Pega RPA, Postman, Python, SharePoint, DocuSign
